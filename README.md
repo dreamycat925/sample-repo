@@ -1,4 +1,3 @@
 # sample-repo
 for Git training
-UPDATED
-
+SECOND UPDATED
